@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Abdul Moaiz<br><br>Computing & IT candidate based in Dublin, interested in AI, data analysis, cloud computing, IT support and healthcare technology.<br><br>I enjoy building practical projects, learning new technologies, and turning college work into real portfolio projects.<br><br>🔭 I’m currently working on: Waste Classifier Project using Python, PyTorch and OpenCV<br><br>👯 I’m looking to collaborate on: AI, data analysis, cloud and beginner-friendly tech projects<br><br>🤝 I’m looking for help with: Machine learning, cloud computing and software engineering<br><br>🌱 I’m currently learning: Python, AI/ML, AWS, GitHub and project building<br><br>💬 Ask me about: IT support, data analysis, AWS basics, healthcare IT and student projects<br><br>⚡ Fun fact: I enjoy turning college projects into real portfolio projects<br><br>Skills:<br><br>Python, R, SQL, Power BI, AWS, Git, GitHub, Microsoft 365, Linux, RStudio, Jupyter Notebook, PyTorch, OpenCV, Pandas, Scikit-learn<br><br>Featured Projects:<br><br>Student Performance EDA and PCA Project<br><br>Waste Classifier Project<br><br>Identity and Access Monitoring Pipeline using AWS<br><br>Network and System Security Testing Report
 
-<!--
-**moizbabar12-debug/moizbabar12-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moizbabar) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=moizbabar12-debug&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=moizbabar12-debug&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=moizbabar12-debug&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=moizbabar12-debug&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
